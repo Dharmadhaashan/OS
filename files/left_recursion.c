@@ -7,6 +7,7 @@ int main(){
     int i=0,j=0;
 
     printf("Enter production : ");
+    //E->E+T|T
     scanf("%s",prod);
 
     nont = prod[0];
